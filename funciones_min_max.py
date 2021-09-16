@@ -9,3 +9,5 @@ def maximo (valor1, valor2):
         return valor1
     else:
         return valor2
+
+print ("Este es un mensaje de prueba")
